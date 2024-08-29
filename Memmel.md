@@ -1,3 +1,4 @@
 # AJ Memmel
 ## Hobbies: Programming, running
-### ntoes: cool hobbies
+### notes: cool hobbies
+### notes: Thanks
