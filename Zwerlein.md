@@ -1,6 +1,8 @@
 # Archie Z
 
-## Hobby - video games and volleyball
+## Hobby 
+
+> video games and volleyball
 
 bottom text
 even more bottom text
